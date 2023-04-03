@@ -5,8 +5,13 @@
 #### 예시 영상
 [![Video Label](http://img.youtube.com/vi/gjpLUAW07vc/0.jpg)](https://www.youtube.com/watch?v=gjpLUAW07vc&ab_channel=Obtron)
 <br/>
-#### 작품 사진
+
+#### 작품 사진 및 설계도
+
+<div align="center">
 <img width="25%" src="https://user-images.githubusercontent.com/33209821/229534865-16b42abb-ecc0-464d-be03-202ef1069688.jpg"/>
+<img width="70%" src="https://user-images.githubusercontent.com/33209821/229540186-af150b62-0ac2-459e-acac-afc290f929ea.jpg"/>	
+</div>
 
 <br/>
 
